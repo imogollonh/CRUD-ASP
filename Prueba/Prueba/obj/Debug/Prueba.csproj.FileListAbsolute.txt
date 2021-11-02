@@ -1,0 +1,184 @@
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Prueba.dll.config
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Prueba.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Prueba.pdb
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\csc.exe
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\csc.exe.config
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\csc.rsp
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\csi.exe
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\csi.exe.config
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\csi.rsp
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.AppContext.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Console.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.IO.Compression.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Net.Http.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.ValueTuple.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\vbc.exe
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\vbc.exe.config
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\vbc.rsp
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\VBCSCompiler.exe
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Antlr3.Runtime.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Newtonsoft.Json.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Helpers.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Mvc.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Optimization.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Razor.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Webpages.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Webpages.Razor.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\WebGrease.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Optimization.xml
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Newtonsoft.Json.xml
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Antlr3.Runtime.pdb
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Razor.xml
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Webpages.xml
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Webpages.Razor.xml
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Helpers.xml
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\System.Web.Mvc.xml
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\obj\Debug\Prueba.dll
+C:\Users\ivan5\Desktop\Prueba\Prueba\Prueba\obj\Debug\Prueba.pdb
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Prueba.dll.config
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Prueba.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Prueba.pdb
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\csc.exe
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\csc.exe.config
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\csc.rsp
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\csi.exe
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\csi.exe.config
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\csi.rsp
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.AppContext.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Console.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Globalization.Calendars.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.IO.Compression.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Net.Http.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Net.Sockets.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.ValueTuple.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Xml.XPath.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\vbc.exe
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\vbc.exe.config
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\vbc.rsp
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\VBCSCompiler.exe
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Antlr3.Runtime.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\AspNet.ScriptManager.jQuery.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Newtonsoft.Json.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Helpers.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Mvc.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Optimization.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Razor.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Webpages.Deployment.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Webpages.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Webpages.Razor.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\WebGrease.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Optimization.xml
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Newtonsoft.Json.xml
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Antlr3.Runtime.pdb
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Razor.xml
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Webpages.xml
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Webpages.Deployment.xml
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Webpages.Razor.xml
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Helpers.xml
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Web.Mvc.xml
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyectos .NET\Prueba\Prueba\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+D:\Proyectos .NET\Prueba\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+D:\Proyectos .NET\Prueba\Prueba\Prueba\obj\Debug\Prueba.csproj.CopyComplete
+D:\Proyectos .NET\Prueba\Prueba\Prueba\obj\Debug\Prueba.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\obj\Debug\Prueba.pdb
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\MySql.Data.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Google.Protobuf.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\ZstdNet.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\K4os.Compression.LZ4.Streams.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\BouncyCastle.Crypto.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\Ubiety.Dns.Core.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Memory.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Buffers.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\K4os.Compression.LZ4.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\K4os.Hash.xxHash.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\System.Numerics.Vectors.dll
+D:\Proyectos .NET\Prueba\Prueba\Prueba\bin\MySql.Data.xml
